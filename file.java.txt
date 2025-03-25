@@ -1,0 +1,3 @@
+Hello, World!
+Welcome to Java programming.
+FileReader is useful for reading text files.
